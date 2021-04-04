@@ -1,4 +1,5 @@
 # 2021-1 차량지능기초 과제1
+20163331 전진우
 1) 자율주행 인지에 관련된 3종 이상의 공개 Data Set 조사, 정리 
    - Kitti Obejct Detection Datasets
    - Ford Campus Vision and Lidar Datasets
