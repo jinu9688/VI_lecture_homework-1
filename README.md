@@ -9,6 +9,6 @@
 2) 자율주행 인지에 관련된 2종 이상의 Open Source 조사, 정리 
    - vehicle_detection
    - road_line_lane_detection
-3) 2)에서 정리핚 코드 중 하나를 실행시켜 결과 확인 
+3) 2)에서 정리한 코드 중 하나를 실행시켜 결과 확인 
    - road_line_lane_detection 코드 실행
    - 결과: white.mp4, yellow.mp4 차선 감지 및 표시 영상 추출 완료
